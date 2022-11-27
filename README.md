@@ -1,2 +1,2 @@
 # Portfolio
-Первая страница находится тут:\pg\Glavnaja
+Первая страница находиться тут:\pg\Glavnaja\index.html
